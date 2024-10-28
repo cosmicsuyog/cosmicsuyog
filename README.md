@@ -6,7 +6,7 @@
 I'm  Suyog Markad, a second-year Computer Engineering student at Savitribai Phule Pune University. Passionate about technology, coding, and learning new skills. My primary focus areas include:
 
 - **Problem Solving and Programming Skills (PPS)**
-- **Python and JavaScript**
+- **Python, C++ and JavaScript**
 - **Web Development (HTML, CSS,JAVASCRIPT)**
 -  
 
