@@ -7,8 +7,7 @@ I'm  Suyog Markad, a second-year Computer Engineering student at Savitribai Phul
 
 - **Problem Solving and Programming Skills (PPS)**
 - **Python, C++ and JavaScript**
-- **Web Development (HTML, CSS,JAVASCRIPT)**
--  
+- **Web Development (HTML, CSS,JAVASCRIPT)**  
 
 I’m on a mission to learn all the essential skills to secure a high-paying tech job!
 
