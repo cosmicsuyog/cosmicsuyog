@@ -3,7 +3,7 @@
 > Welcome to my GitHub! Here, I share projects, experiments, and code samples that reflect my journey as a computer science student and developer.
 
 ## About Me
-I'm Cosmic Suyog, a second-year Computer Engineering student at Savitribai Phule Pune University. Passionate about technology, coding, and learning new skills. My primary focus areas include:
+I'm  Suyog Markad, a second-year Computer Engineering student at Savitribai Phule Pune University. Passionate about technology, coding, and learning new skills. My primary focus areas include:
 
 - **Problem Solving and Programming Skills (PPS)**
 - **Python and JavaScript**
