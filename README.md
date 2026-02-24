@@ -1,3 +1,10 @@
+ 
+<p align="center">
+  <img src="https://s6.ezgif.com/tmp/ezgif-652a462572e72394.gif" width="1000" />
+</p>
+
+ 
+
 # 💫 About Me:
 🔭 I’m currently working on  <br>Full Stack MERN applications with authentication systems, AI-based features, and scalable REST APIs.<br>🤝 I’m looking to collaborate on  <br>Open Source projects (especially MERN stack), AI integrations, and real-world SaaS applications.<br>🛠 I’m looking for help with  <br>Advanced backend architecture, system design, and production-level scaling.<br>🌱 I’m currently learning  <br>Advanced Node.js patterns, System Design fundamentals, and improving my DSA problem-solving skills.<br>💬 Ask me about  <br>React.js, Node.js, JWT authentication, MongoDB, REST APIs, and clean project structuring.<br>⚡ Fun fact  <br>I love building immersive UI experiences with animations (GSAP, Three.js) and I enjoy turning ideas into fully deployed products 🚀
 
@@ -13,5 +20,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cosmicsuyog&icon=0&color=0)](https://visitcount.itsvg.in)
+![cool gif](https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif)
 
+
+![coding gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
