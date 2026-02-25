@@ -1,6 +1,6 @@
  
 <p align="center">
-  <img src="https://s6.ezgif.com/tmp/ezgif-652a462572e72394.gif" width="1000" />
+  <img src="https://image2url.com/r2/default/gifs/1772044014967-043a053b-ca41-4082-9c48-5ca4cf9f06d8.gif" width="1000" />
 </p>
 
  
